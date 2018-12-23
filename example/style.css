@@ -1,0 +1,16 @@
+.my-class{
+    background-color: azure;
+    color: darkslategray;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic
+}
+
+.color{
+    color: orangered;
+}
